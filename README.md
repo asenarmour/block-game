@@ -7,14 +7,22 @@ this is a multiplayer game in which players has make sure that the ball doesn't 
 
 ## Controls:
 
-Player 1:
+###Player 1:
 
 A-left
 
 D-right
 
-Player 2:
+W-up
+
+S-down
+
+###Player 2:
 
 left arrow(<-) - left
 
 right arrow(->) - right
+
+up arrow - up
+
+down arrow - down
